@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\11544377a485fccf7f563fc438d855312fc979c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_5b91070c5ee14f1cfad79c1d41787d851ee15f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\17f56ca0a162f6f65bc1799dba046aa6e5ece3ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_137e982f74e8677a3a93c2ef2c13024a66edd6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\961df6512c5aa20956af172736c71753d4ad97d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_e7c49d4bc365ce85e2d7e6bf16f133951f0fc567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\df04dca66e6c3f74dd53d789123d2dacfcb5e0f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_af4691f4c463cd9924731f2ba007093ad8d29e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\4ebc24e4f90e3393d096474e5354a44e8aed37d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_457833b6f0f9c20ebf618338eadcf4eff81c0ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\3c7cf245a8a88bbf1ed7b23746dc2efb691ac55a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_87de8dee2c39894d3a8cadd8fed09d724ffdcccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\77132ff49068fb0ce477934a7a789bcea570f19e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_25d034a645488fafc1b87934bf2f0f870a936f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\ad8052f8f6c2a4295f5a3ae67cf6eee721bc10d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_86793dd8a5b8101fe3efe64ecb7c2adbf1a7d1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\09ec0c4f948f7e6e1e60a506cff1617393f0e71f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_972615749c5072705b6ca1b8423c2d9346ca6ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_52ae6a9d91221da8c566b308af91ef475d4522ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\5a1676c235ac004ea71c6a7afeff7a55ec2690b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_1e7750016b24680aab9c2d135446841805025544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\e8c9db9da9a1c2f2d499a61c7cf64d808f804682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_94fbc151bc657a8315c67b8b0b5d7412ee915b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thiago\.android\build-cache\96c81e5462b9f830055644688dcf522fc64c949a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\uBus\app\build\intermediates\pre-dexed\debug\classes_b184e19d606440d4373f28380aa3d52819498b82.jar" />
+    </item>
+
+</items>

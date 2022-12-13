@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_solucoes"
+
+            android:title="Soluções" />
+        <item
+            android:id="@+id/nav_servicos"
+
+            android:title="Serviços" />
+        <item
+            android:id="@+id/nav_empresa"
+
+            android:title="Empresa" />
+        <item
+            android:id="@+id/nav_carreira"
+
+            android:title="Carreira" />
+        <item
+            android:id="@+id/nav_blog"
+
+            android:title="Blog" />
+        <item
+            android:id="@+id/nav_webinars"
+
+            android:title="Webinars" />
+        <item
+            android:id="@+id/nav_contato"
+
+            android:title="Contato" />
+    </group>
+</menu>
+
